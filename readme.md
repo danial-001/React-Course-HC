@@ -1,1 +1,1 @@
-This is a React Course by HC
+This is a React Course by HC - 10/06/2026
